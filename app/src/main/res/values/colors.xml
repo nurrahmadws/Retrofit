@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1B6BD8</color>
+    <color name="colorPrimaryDark">#23283a</color>
+    <color name="colorFormBackground">#D1D1D1</color>
+    <color name="colorPrimaryBackground">#1B6BD8</color>
+    <color name="colorBackgroundAdduser">#A19F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorHome">#FFC107</color>
+    <color name="colorHomeDark">#FFA000</color>
+    <color name="colorHomeBg">#fcfcfc</color>
+    <color name="colorHomeLight">#ededed</color>
+    <color name="colorHomeDeepPurple">#7c4dff</color>
+    <color name="colorHomeYellow">#ffb300</color>
+    <color name="colorHomeGreen">#00bfa5</color>
+    <color name="colorHomeAccent">#FF4081</color>
+    <color name="colorHomeSea">#1DBBB9</color>
+</resources>
