@@ -22,7 +22,8 @@
         <activity android:name=".activities.AdminHomeActivity" />
         <activity android:name=".activities.DataUserActivity" />
         <activity android:name=".activities.DataDaerahActivity" />
-        <activity android:name=".activities.EditDataUserActivity"></activity>
+        <activity android:name=".activities.EditDataUserActivity" />
+        <activity android:name=".activities.MahasiswaActivity"></activity>
     </application>
 
 </manifest>

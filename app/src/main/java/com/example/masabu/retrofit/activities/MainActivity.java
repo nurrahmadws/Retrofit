@@ -11,6 +11,7 @@ import android.widget.Toast;
 import com.example.masabu.retrofit.R;
 import com.example.masabu.retrofit.api.RetrofitClient;
 import com.example.masabu.retrofit.models.LoginResponse;
+import com.example.masabu.retrofit.models.User;
 import com.example.masabu.retrofit.storage.SharedPrefManager;
 
 import retrofit2.Call;
