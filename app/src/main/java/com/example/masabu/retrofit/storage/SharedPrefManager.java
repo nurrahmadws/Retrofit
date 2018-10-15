@@ -3,6 +3,7 @@ package com.example.masabu.retrofit.storage;
 import android.content.Context;
 import android.content.SharedPreferences;
 
+import com.example.masabu.retrofit.models.Kabupaten;
 import com.example.masabu.retrofit.models.User;
 
 public class SharedPrefManager {
@@ -46,6 +47,7 @@ public class SharedPrefManager {
             sharedPreferences.getString("level", null)
         );
     }
+
 
     public void clear(){
         SharedPreferences sharedPreferences = mCtx.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);

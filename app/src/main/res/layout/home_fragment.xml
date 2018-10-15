@@ -16,7 +16,8 @@
 
         <RelativeLayout
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:padding="15dp">
         <Button
             android:id="@+id/btn_data_user"
             android:layout_width="100dp"
@@ -38,7 +39,8 @@
         </RelativeLayout>
         <RelativeLayout
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:padding="10dp">
             <Button
                 android:id="@+id/btn_data_daerah"
                 android:layout_width="100dp"
@@ -67,7 +69,8 @@
         android:layout_height="wrap_content">
         <RelativeLayout
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:padding="15dp">
             <Button
                 android:id="@+id/btn_data_mahasiswa"
                 android:layout_width="100dp"
@@ -89,7 +92,8 @@
         </RelativeLayout>
         <RelativeLayout
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:padding="10dp">
             <Button
                 android:id="@+id/btn_data_sebaran_mhs"
                 android:layout_width="100dp"
